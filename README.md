@@ -11,6 +11,11 @@ A well-structured collection of fundamental data structures implemented from scr
 - Binary Search Tree (BST)
 - Max Heap (Priority Queue)
 
+### 🔹 Hashing
+
+- Hash Set using Array of Singly Linked Lists (Separate Chaining)
+- HashMap with Separate Chaining (Array of Linked Lists)
+
 ## 🔍 Graph Algorithms
 
 - Graph Representation (Adjacency List)
