@@ -10,7 +10,6 @@ A well-structured collection of fundamental data structures implemented from scr
 - Queue (Linked List)
 - Binary Search Tree (BST)
 - Max Heap (Priority Queue)
-- Graph Algorithms
 
 ## 🔍 Graph Algorithms
 
