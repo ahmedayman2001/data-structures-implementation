@@ -24,17 +24,17 @@ A well-structured collection of fundamental data structures implemented from scr
 - Cycle Detection (Directed Graph)
 - Connected Components (DFS)
 
-## 🎯 Purpose
+##  Purpose
 
 This repository is created to:
 - Strengthen understanding of core data structures
 - Prepare for technical interviews
 - Support competitive programming practice
 
-## 💻 Language
+##  Language
 
 C++
 
-## ⭐ 
+##  
 
 All implementations are written from scratch with clear structure and comments for learning purposes.
